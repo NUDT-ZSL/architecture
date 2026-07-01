@@ -1,6 +1,5 @@
 # 国防科技大学高级体系结构课课程作业
 
-国防科技大学高级体系结构课课程作业\\
 
 To achieve the function of RISC V2.1 RV32I&RV32E subset<br>
 |--There are three documents in folder 'work3':<br>
